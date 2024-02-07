@@ -17,6 +17,7 @@ public class Switch {
                 System.out.println("Hello");
             default:
                 System.out.println("Invalid Button");
+                System.out.println("Invalid Button");
         }
     }
 }
